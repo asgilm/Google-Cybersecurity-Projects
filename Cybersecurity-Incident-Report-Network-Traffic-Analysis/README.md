@@ -10,4 +10,4 @@ This project simulates an incident investigation where clients were unable to ac
 As a cybersecurity analyst working for an IT services company, I captured and analyzed network traffic to identify the cause of the issue. The analysis revealed that when sending UDP packets to the DNS server (port 53), ICMP error messages were returned, indicating that the DNS service was unreachable—possibly due to a DoS attack or server configuration issue.
 
 ## 🛠️ Tools & Methods
-- tcpdump
+- tcpdump for capturing traffic
