@@ -4,7 +4,7 @@ This project simulates an incident investigation where a web server was affected
 
 ## 📄 Files
 - syn-flood-incident-report.pdf – Final incident report analyzing SYN flood attack
-- logs.xlsx – Network traffic logs used for analysis
+- HTTP-log.xlsx – Network traffic logs used for analysis
 
 ## 💻 Scenario
 As a cybersecurity analyst, I investigated an event where the web server received excessive SYN requests from attacker IP 203.0.113.0, causing service disruption and slow response times.
