@@ -1,6 +1,6 @@
 # Network Traffic Analysis Projects
 
-This folder contains different network traffic analysis exercises and incident investigations carried out during my cybersecurity training.
+This folder contains different network traffic analysis exercises
 
 ## 📄 Cases included
 - [DNS-Port-53-Incident](./DNS-Port-53-Incident): Investigation of DNS traffic where port 53 was unreachable.
