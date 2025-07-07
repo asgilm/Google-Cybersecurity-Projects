@@ -6,4 +6,3 @@ Each project simulates a real-world scenario where I play the role of a cybersec
 
 ## 📄 Projects included
 - [Botium Toys Audit](./botium-toys-audit): Risk assessment and compliance analysis for an online toy store.
-
