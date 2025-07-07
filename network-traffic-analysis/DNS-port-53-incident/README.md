@@ -1,4 +1,4 @@
-# DNS Pot 53 Incident
+# DNS Port 53 Incident
 
 This project simulates an incident investigation where clients were unable to access the website www.yummyrecipesforme.com, receiving the error "destination port unreachable."
 
