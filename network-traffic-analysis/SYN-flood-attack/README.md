@@ -10,5 +10,4 @@ This project simulates an incident investigation where a web server was affected
 As a cybersecurity analyst, I investigated an event where the web server received excessive SYN requests from attacker IP 203.0.113.0, causing service disruption and slow response times.
 
 ## 🛠️ Tools & Methods
-- Manual log analysis
 - Spreadsheet (Excel) to visualize and count SYN requests
