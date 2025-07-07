@@ -1,10 +1,9 @@
-# Botium Toys Audit
+# Security Audits and Risk Assessments
 
-This project involved performing a risk assessment and compliance analysis for Botium Toys, a fictional toy store expanding its online business.
+This folder contains security audits and risk assessments performed as part of my cybersecurity training.
 
-## 📄 Files
-- scope-goals-and-risk-assessment-report.pdf – Report detailing scope, assets, and risk assessment
-- controls-and-compliance-checklist.pdf – Checklist evaluating current controls and compliance with standards (PCI DSS, GDPR, SOC)
+Each project simulates a real-world scenario where I play the role of a cybersecurity analyst evaluating organizational assets, identifying potential risks, and proposing security improvements.
 
-## 💻 Scenario
-As a cybersecurity analyst, I reviewed existing security measures and proposed improvements to protect data and systems.
+## 📄 Projects included
+- [Botium Toys Audit](./Botium-Toys-Audit): Risk assessment and compliance analysis for an online toy store.
+
