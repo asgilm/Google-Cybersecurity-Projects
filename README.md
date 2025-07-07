@@ -1,2 +1,2 @@
-# Cibersecurity-Projects
+# Cybersecurity-Projects
 My cybersecurity labs and projects
