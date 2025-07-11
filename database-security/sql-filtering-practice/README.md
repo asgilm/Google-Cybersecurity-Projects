@@ -7,14 +7,7 @@ This project includes SQL queries created to investigate and manage potential se
 - organization-database-table-formats.pdf – Organization table formats.
 
 ## 💻 Scenario
-As a cybersecurity analyst, I created and applied SQL filters to:
-- Identify failed login attempts outside business hours
-- Retrieve login activity on specific dates
-- Find login attempts outside of Mexico
-- List employees in specific departments or offices
-- Filter out employees not in IT for targeted updates
-
-These queries help the organization detect unusual login behavior and update employee devices as needed.
+As a cybersecurity analyst, I created and applied SQL filters to detect failed login attempts outside business hours, retrieve login activity on specific dates, find attempts from outside Mexico, and list employees in certain departments or offices, helping the organization identify unusual login behavior and manage device updates.
 
 ## 🛠️ Tools & Methods
 - MariaDB
