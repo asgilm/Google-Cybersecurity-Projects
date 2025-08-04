@@ -1,2 +1,2 @@
 # Cybersecurity-Projects
-My cybersecurity labs and projects
+A portfolio of practical projects from the Google Cybersecurity Professional Certificate.
